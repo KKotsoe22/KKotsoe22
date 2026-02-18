@@ -1,5 +1,12 @@
-## Hi there 👋
+<h1>Hi, The name's Kutlwano <br/><a href="https://github.com/KKotsoe22">Programmer</a>, <a href="https://www.linkedin.com/in/kutlwanokotsoe/">Cybersecurity
+  Professional</a></h1>
+  <h2> CyberSecurity Projects:</h2>
+  
 
+
+<h2> Connect with me</h2>
+[<img align="left" alt="KutlwanoKotsoe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>] [linkedin]
+[linkedin] : https://linkedin.com/in/kutlwanokotsoe
 <!--
 **KKotsoe22/KKotsoe22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
