@@ -1,4 +1,4 @@
-<h1>Hi, The name's Kutlwano <br/><a href="https://github.com/KKotsoe22">Programmer</a>, <a href="https://www.linkedin.com/in/kutlwanokotsoe/">Cybersecurity
+<h1>Hi, The name's Kutlwano Kotsoe <br/><a href="https://github.com/KKotsoe22">Programmer</a>, <a href="https://www.linkedin.com/in/kutlwanokotsoe/">Cybersecurity
   Professional</a></h1>
   <h2> CyberSecurity Projects:</h2>
   
